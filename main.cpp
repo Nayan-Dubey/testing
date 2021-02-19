@@ -6,9 +6,6 @@ using namespace std;
 
 int main()
 {
-string s;
-cin>>s;
-cout<<s;
-
+a,s,c,f,g,h;
 return 0;
 }
