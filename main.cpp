@@ -6,9 +6,7 @@ using namespace std;
 
 int main()
 {
-string s;
-cin>>s;
-cout<<s;
+cout<<"nayan is here ";
 
 return 0;
 }
